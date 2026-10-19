@@ -1,0 +1,6 @@
+/api/inquiries      /.netlify/functions/inquiries      200
+/api/email/status   /.netlify/functions/email-status   200
+/api/email/test     /.netlify/functions/email-test     200
+/api/email/logs     /.netlify/functions/email-status   200
+/api/*              /.netlify/functions/:splat         200
+/*                  /index.html                        200

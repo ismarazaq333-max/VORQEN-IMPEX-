@@ -1,0 +1,6 @@
+{
+  "name": "VORQEN - International Sports Gear & Manufacturing",
+  "description": "VORQEN sports gear, protective gloves, leather goods, and custom apparel supported by FLAKES IMPEX (Sialkot, Pakistan). International B2B quotations, workshop craftsmanship, and custom private-label manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "LOG-MVE7J90L",
+    "timestamp": "2026-10-18T19:17:24.453Z",
+    "type": "INQUIRY_NOTIFICATION",
+    "to": "vorqenimpex@gmail.com",
+    "subject": "Custom Tactical & Motorcycle Gloves Inquiry",
+    "status": "CONFIG_REQUIRED",
+    "details": "Inquiry VRQ-MVE7J90K safely recorded in local database. SMTP_PASS is not configured yet."
+  }
+]
